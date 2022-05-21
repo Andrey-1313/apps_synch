@@ -1,0 +1,4 @@
+__pycache__
+myapps/.env
+myapps/currencys.csv
+myapps/suppliers_list.csv
